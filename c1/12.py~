@@ -1,0 +1,5 @@
+def count(x):
+	y=str(x)
+	k=len(y)
+	return k
+print k
